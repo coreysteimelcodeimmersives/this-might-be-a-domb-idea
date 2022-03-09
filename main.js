@@ -9,7 +9,7 @@ let item13 = document.querySelector('#item-13');
 item13.style.opacity = '0.5';
 
 let item3 = document.querySelector('#item-3');
-item3.innerText = 'say, "Hi!"';
+item3.innerText = '| say, "Hi!"';
 
 let img = document.querySelector('img');
 img.src = 'http://www.tioxic.com/wp-content/uploads/trex_4.jpg';
