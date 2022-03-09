@@ -12,7 +12,7 @@ let item3 = document.querySelector('#item-3');
 item3.innerText = '| say, "Hi!"';
 
 let img = document.querySelector('img');
-img.src = 'http://www.tioxic.com/wp-content/uploads/trex_4.jpg';
+img.src = 'https://resize.hswstatic.com/w_1024/gif/t-rex.jpg';
 img.style.height = '300px';
 
 let img2 = document.querySelector('#img-2');
