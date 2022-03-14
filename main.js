@@ -9,7 +9,7 @@ let item13 = document.querySelector('#item-13');
 item13.style.opacity = '0.5';
 
 let item3 = document.querySelector('#item-3');
-item3.innerText = '| say, "Hi!"';
+item3.innerText = 'I say, "Hi!"';
 
 let img = document.querySelector('img');
 img.src = 'https://resize.hswstatic.com/w_1024/gif/t-rex.jpg';
@@ -19,5 +19,5 @@ let img2 = document.querySelector('#img-2');
 img2.style.height = '300px';
 
 let item16 = document.querySelector('#item-16');
-item16.className = item3;
+item16.className = 'item';
 item16.innerText = "Won't get fooled again.";
